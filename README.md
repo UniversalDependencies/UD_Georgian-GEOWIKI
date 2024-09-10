@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+**UD_Georgian-GEOWIKI** is a general corpus derived from randomly selected texts from Georgian Wikipedia. It contains 385 sentences that were automatically tokenized and tagged using the TreeTagger tool, available at [TreeTagger for Georgian](https://github.com/SophikoComp/TreeTagger-for-Georgian). The tagged data was then semi-automatically converted to the Universal Dependencies (UD) format, followed by manual corrections to ensure accuracy.
 
 
 # Introduction
@@ -29,11 +29,11 @@ Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: wiki
-Lemmas: manual native
-UPOS: manual native
+Lemmas: automatic with corrections
+UPOS: automatic with corrections
 XPOS: not available
-Features: manual native
-Relations: manual native
+Features: automatic with corrections
+Relations: automatic with corrections
 Contributors: Didebashvili, Mate
 Contributing: here
 Contact: matedideba@gmail.com
