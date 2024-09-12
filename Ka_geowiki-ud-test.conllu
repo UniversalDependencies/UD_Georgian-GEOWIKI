@@ -2,7 +2,7 @@
 # text = ასტრონომია — საბუნებისმეტყველო მეცნიერების დარგია, რომელიც შეისწავლის ცის მნათობებს: მზეს, მთვარეს, ცთომილებსა და მათ თანამგზავრებს, კომეტებსა და მათ მეტეორულ სხეულებს, ვარსკვლავებს, ნისლეულებს, ვარსკვლავთა სისტემებსა და ნივთიერებას, რომელიც ავსებს ვარსკვლავთშორის სივრცეებსა და ცის სხვა ობიექტებს, მათ მდებარეობასა და მოძრაობას კოსმოსურ სივრცეში, ფორმასა და აგებულებას, ფიზიკურ თვისებებსა და ქიმიურ შემადგენლობას, მათ წარმოშობასა და განვითარებას.
 # translit = astʼronomia — sabunebismetʼqʼvelo metsnierebis dargia, romelits sheistsʼavlis tsis mnatʼobebs: mzes, mtʼvares, tstʼomilebsa da matʼ tʼanamgzavrebs, kʼometʼebsa da matʼ metʼeorul skheulebs, varskʼvlavebs, nisleulebs, varskʼvlavtʼa sistʼemebsa da nivtʼierebas, romelits avsebs varskʼvlavtʼshoris sivrtseebsa da tsis skhva obiekʼtʼebs, matʼ mdebareobasa da modzraobas kʼosmosur sivrtseshi, pʼormasa da agebulebas, pʼizikʼur tʼvisebebsa da kʼimiur shemadgenlobas, matʼ tsʼarmoshobasa da ganvitʼarebas.
 1	ასტრონომია	ასტრონომია	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=astronomia
-2	—	—	PUNCT	_	PunctType=Dash	_	_		_Translit=—
+2	—	—	PUNCT	_	PunctType=Dash	_	_	_	Translit=—
 3	საბუნებისმეტყველო	საბუნებისმეტყველო	ADJ	_	_	Case=Nom|Number=Sing	_	_	Translit=sabunebismetqvelo
 4	მეცნიერების	მეცნიერების	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=metsnierebis
 5-6	დარგია	_	_	_	_	_	_	_	_
@@ -10,7 +10,7 @@
 6	ა	არის	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
 7	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 8	რომელიც	რომელიც	PRON	_	Case=Nom|Number=Sing|PronType=Int|PartType=Emp	_	_	_	Translit=romelits
-9	შეისწავლის		შეისწავლის	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Act	_	_	Translit=sheistsavlis
+9	შეისწავლის	შეისწავლის	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=sheistsavlis
 10	ცის	ცის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=tsis
 11	მნათობებს	მნათობებს	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=mnatobebs
 12	მზეს	მზეს	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=mzes
@@ -52,8 +52,8 @@
 48	მოძრაობას	მოძრაობას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=modzraobas
 49	კოსმოსურ	კოსმოსურ	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=kosmosur
 50-51	სივრცეში	_	_	_	_	_	_	_	_
-50	სივრცე	სივრცე	NOUN	_	Case=Dat|Number=Sing	_	_	_	_	Translit=sivrtse
-51	ში	ში	ADP	_	AdpType=Post|Case=Dat	_	_	_	_	_	Translit=shi
+50	სივრცე	სივრცე	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=sivrtse
+51	ში	ში	ADP	_	AdpType=Post|Case=Dat	_	_	_	Translit=shi
 52	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 53	ფორმასა	ფორმასა	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=pormasa
 54	და	და	CCONJ	_	_	_	_	_	Translit=da
@@ -495,7 +495,7 @@
 13	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 14	ფარდობითობის	ფარდობითობის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=pardobitobis
 15	თეორიისა	თეორიისა	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=teoriisa
-16	და		და	CCONJ	_	_	_	_	Translit=da
+16	და	და	CCONJ	_	_	_	_	_	Translit=da
 17	კვანტური	კვანტური	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=kvanturi
 18	თეორიის	თეორიის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=teoriis
 19	შემუშავების	შემუშავების	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=shemushavebis
@@ -514,7 +514,7 @@
 6	თითქმის	თითქმის	ADV	_	AdvType=Man	_	_	_	Translit=titkmis
 7-8	არაფერია	_	_	_	_	_	_	_	_
 7	არაფერი	PNN	არაფერი	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	Translit=araperi
-8	ა	არის	AUX	_		Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	Translit=a
+8	ა	არის	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
 9	ცნობილი	ცნობილი	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=tsnobili
 10	მესამე	მესამე	NUM	_	Case=Dat|NumType=Ord|Number=Sing	_	_	_	Translit=mesame
 11	ამოცანას	ამოცანასთან	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=amotsanas
@@ -569,7 +569,7 @@
 34	ამოცანის	ამოცანის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=amotsanis
 35	გადაჭრის	გადაჭრის	VERB	_	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=gadachris
 36	მეთოდებსა	მეთოდებსა	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=metodebsa
-37	და		და	CCONJ	_	_	_	_	Translit=da
+37	და	და	CCONJ	_	_	_	_	_	Translit=da
 38	გზებ	გზებზე	NOUN	_	Case=Dat|Number=Plur|AdpType=Postposition	_	_	_	Translit=gzeb
 39	ზე	ზე	ADP	_	AdpType=Post	_	_	_	Translit=ze
 40	არ	არ	PART	_	PartType=Neg	_	_	_	Translit=ar
@@ -587,7 +587,7 @@
 5	შესწავლის	შესწავლის	VERB	_	Aspect=Imp|Case=Gen|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=shestsavlis
 6	საფუძველს	საფუძველს	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=sapudzvels
 7	დაკვირვება	დაკვირვება	VERB	_	Aspect=Imp|Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=dakvirveba
-8	ანუ		ანუ	CCONJ	_	_	_	_	Translit=anu
+8	ანუ	ანუ	CCONJ	_	_	_	_	_	Translit=anu
 9	დამზერა	დამზერა	VERB	_	Aspect=Imp|Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=damzera
 10	(	(	PUNCT	_	PunctType=Brck	_	_	_	Translit=(
 11	ოპტიკური	ოპტიკური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=optikuri
@@ -609,7 +609,7 @@
 8	უძველესი	უძველესი	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=udzvelesi
 9	წინაპარი	წინაპარი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=tsinapari
 10	გარემოსა	გარემოსა	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=garemosa
-11	და		და	CCONJ	_	_	_	_	Translit=da
+11	და	და	CCONJ	_	_	_	_	_	Translit=da
 12	ცას	ცას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=tsas
 13	დააკვირდა	დააკვირდა	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=daakvirda
 14	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
@@ -635,7 +635,7 @@
 5	თვალით	თვალით	NOUN	_	Case=Ins|Number=Sing	_	_	_	Translit=tvalit
 6	აკვირდებოდა	აკვირდებოდა	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|Voice=Act	_	_	_	Translit=akvirdeboda
 7	ცას	ცას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=tsas
-8	და		და	CCONJ	_	_	_	_	Translit=da
+8	და	და	CCONJ	_	_	_	_	_	Translit=da
 9	მხოლოდ	მხოლოდ	ADV	_	AdvType=Deg	_	_	_	Translit=mkholod
 10	კუთხსაზომ	კუთხსაზომ	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=kutkhsazom
 11	იარაღებს	იარაღებს	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=iaraghebs
@@ -758,7 +758,7 @@
 13	ჩამოყალიბება	ჩამოყალიბება	VERB	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=chamoqalibeba
 14	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 15	ექსპერიმენტული	ექსპერიმენტული	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=eksperimentuli
-16	და		და	CCONJ	_	_	_	_	Translit=da
+16	და	და	CCONJ	_	_	_	_	_	Translit=da
 17	თეორიული	თეორიული	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=teoriuli
 18	ფიზიკის	ფიზიკის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=pizikis
 19	განვითარება	განვითარება	VERB	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=ganvitareba
@@ -1039,7 +1039,7 @@
 1	რაკი	რაკი	SCONJ	_	_	_	_	_	Translit=raki
 2-3	ცნობილია	_	_	_	_	_	_	_	_
 2	ცნობილი	ცნობილია	ADJ	_	Case=Nom|Number=Sing|VerbForm=Aux	_	_	_	Translit=tsnobili
-3	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pre	_	_	_	_	_	Translit=a
+3	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	_	_	Translit=a
 4	ელექტრომაგნიტურ	ელექტრომაგნიტურ	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=elektromagnitur
 5	ტალღათა	ტალღათა	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=talghata
 6	გავრცელების	გავრცელების	VERB	_	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=gavrtselebis
@@ -1047,7 +1047,7 @@
 8	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 9-10	შესაძლებელია	_	_	_	_	_	_	_	_
 9	შესაძლებელი	შესაძლებელია	ADJ	_	Case=Nom|Number=Sing|VerbForm=Aux	_	_	_	Translit=shesadzlebeli
-10	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pre	_	_	_	_	_	Translit=a
+10	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	_	_	Translit=a
 11	მნათობა	მნათობამდე	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=mnatoba
 12	მდე	მდე	ADP	_	AdpType=Post	_	_	_	Translit=mde
 13	მანძილის	მანძილის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=mandzilis
@@ -1061,7 +1061,7 @@
 2	გაზომვა	გაზომვა	VERB	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=gazomva
 3-4	ჩატარებულია	_	_	_	_	_	_	_	_
 3	ჩატარებული	ჩატარებულია	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=chatarebuli
-4	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pre	_	_	_	_	_	Translit=a
+4	ა	არის	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	_	_	Translit=a
 5	მტვარის	მტვარის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=mtvaris
 6	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 7	ვენერას	ვენერას	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=veneras
@@ -1722,7 +1722,7 @@
 # translit = am sakhelis kʼvesh gaertʼianda kʼartʼuli sabrdzolo khelovnebis otʼkhi udzvelesi sakheoba: chʼidaoba, rkʼena, kʼrivi da pʼarikʼaoba.
 1	ამ	ამ	PRON	_	Case=Erg|Number=Sing|PronType=Dem	_	_	_	Translit=am
 2	სახელის	სახელის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=sakhelis
-3	ქვეშ		ქვეშ	ADV	_	AdvType=Loc	_	_	Translit=kvesh
+3	ქვეშ	ქვეშ	ADV	_	AdvType=Loc	_	_	_	Translit=kvesh
 4	გაერთიანდა	გაერთიანდა	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=gaertianda
 5	ქართული	ქართული	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=kartuli
 6	საბრძოლო	საბრძოლო	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=sabrdzolo
@@ -1849,7 +1849,7 @@
 18	შესახებ	შესახებ	ADP	_	AdpType=Post	_	_	_	Translit=shesakheb
 19	არსებულ	არსებულ	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=arsebul
 20-21	წყაროებში	_	_	_	_	_	_	_	_
-20	წყაროებ	წყაროებში	NOUN	_	_	Case=Dat|Number=Sing	_	_	_	Translit=tsqaroeb
+20	წყაროებ	წყაროებში	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=tsqaroeb
 21	ში	ში	ADP	_	AdpType=Post	_	_	_	Translit=shi
 22	აღმოჩნდა	აღმოჩნდა	VERB	_	Aspect=Perf||Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=aghmochnda
 23	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -2019,7 +2019,7 @@
 1	ხელოვნური	ხელოვნური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=khelovnuri
 2	ინტელექტი	ინტელექტი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=intelekti
 3	(	(	PUNCT	_	PunctType=Brck	_	_	_	Translit=(
-4	ინგლ.	ინგლისური		ADJ	_	Case=Ess|Number=Sing|Abbr=Yes	_	_	Translit=ingl.
+4	ინგლ.	ინგლისური		ADJ	_	Case=Ess|Number=Sing|Abbr=Yes	_	_	_	Translit=ingl.
 5	artificial	artificial	X	_	Foreign=Yes	_	_	_	Translit=artificial|Foreign=Yes
 6	intelligence	intelligence	X	_	Foreign=Yes	_	_	_	Translit=intelligence|Foreign=Yes
 7	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -2059,7 +2059,7 @@
 5	დამოკიდებული	დამოკიდებულია	ADJ	_	Case=Nom|Number=Sing|VerbForm=Aux	_	_	_	Translit=damokidebuli
 6	ა	არის	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
 7	იმა	ის(ი)	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	Translit=ima
-8	ზე	ზე	ADP	_	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ze	Translit=ze
+8	ზე	ზე	ADP	_	Post	AdpType=Post|Case=Dat	_	_	Translit=ze
 9	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 10	თუ	თუ	CCONJ	_	_	_	_	_	Translit=tu
 11	რა	რა	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	Translit=ra
@@ -2634,7 +2634,7 @@
 4	:	:	PUNCT	_	PunctType=Colo	_	_	_	Translit=:
 5	ποίησις	ποίησις	X	_	Foreign=Yes	_	_	_	Translit=ποίησις|Foreign=Yes
 6	„	„	PUNCT	_	PunctType=Quot	_	_	_	Translit=„|Foreign=Yes
-7	ვქმნი	ვქმნი		VERB	_	Aspect=Imp|Mood=Ind|Number=Sing[subj]=Sing|Person[subj]=1|Tense=Pres|Voice=Act	_	_	Translit=vkmni
+7	ვქმნი	ქმნის		VERB	_	Aspect=Imp|Mood=Ind|Number=Sing[subj]=Sing|Person[subj]=1|Tense=Pres|Voice=Act	_	_	_	Translit=vkmni
 8	“	“	PUNCT	_	PunctType=Quot	_	_	_	Translit=“|Foreign=Yes
 9	)	)	PUNCT	_	PunctType=Brck	_	_	_	Translit=)
 10	—	—	PUNCT	_	PunctType=Dash	_	_	_	Translit=—|Foreign=Yes
@@ -2726,7 +2726,7 @@
 14	მეტრულ-რიტმული	მეტრულ-რიტმული	ADJ	_	Case=Ins|Number=Sing	_	_	_	Translit=metrul-ritmuli
 15	ორგანიზაციით	ორგანიზაციით	NOUN	_	Case=Ins|Number=Sing	_	_	_	Translit=organizatsiit
 16	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
-17	ე.ი.	ე.ი.		AdvType=Man	_	_	_	_	Translit=e.i.
+17	ე.ი.	ე.ი.	ADV	AdvType=Man	_	_	_	_	Translit=e.i.
 18	რიტმული	რიტმული	ADJ	_	Case=Ins|Number=Sing	_	_	_	Translit=ritmuli
 19	იმპულსით	იმპულსით	NOUN	_	Case=Ins|Number=Sing	_	_	_	Translit=impulsit
 20	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -3039,6 +3039,7 @@
 26-27	ერთმანეთში	_	_	_	_	_	_	_	_
 26	ერთმანეთ	ერთმანეთ	PRON	_	Case=Dat|PronType=Rcp|AdpType=Postposition	_	_	_	Translit=ertmanet
 27	ში	ში	ADP	_	AdpType=Post	_	_	_	Translit=shi
+28	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = 00113
 # text = თემატიკის მიხედვით რომანი შეიძლება იყოს ისტორიული, სოციალური, ფილოსოფიური, საოჯახო-ყოფითი, სათავგადასავლო, ფანტასტიკური და ა.შ.
@@ -3060,7 +3061,8 @@
 15	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 16	ფანტასტიკური	ფანტასტიკური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=pantastikuri
 17	და	და	CCONJ	_	_	_	_	_	Translit=da
-18	ა.შ.	ასე_შემდეგ		ADV	_	AdvType=Man	_	_	Translit=a.sh.
+18	ა.შ	ასე_შემდეგ	ADV	_	AdvType=Man	_	_	_	Translit=a.sh
+19	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = 00114
 # text = ზოგჯერ ერთი რომანის გმირთა ცხოვრება მეორეშიც გრძელდება, ამგვარად, ეს ორი ნაწარმოები ერთიანდება დილოგიაში, სამი რომანი - ტრილოგიაში, ოთხი - ტეტრალოგიაში.
@@ -6093,7 +6095,7 @@
 4	ზე	ზე	ADP	_	AdpType=Post	_	_	_	Translit=ze
 5	გამოჩნდა	გამოჩნდა	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=gamochnda
 6	და	და	CCONJ	_	_	_	_	_	Translit=da
-7	გააქტიურდა	გააქტიურდა		VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	Translit=gaaktiurda
+7	გააქტიურდა	გააქტიურდა	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=gaaktiurda
 8	მიმდინარეობა	მიმდინარეობა	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=mimdinareoba
 9	დადაიზმი	დადაიზმი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=dadaizmi
 10	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -6118,7 +6120,7 @@
 5	კოლაჟებ	კოლაჟებში	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=kolazheb
 6	ში	ში	ADP	_	AdpType=Post	_	_	_	Translit=shi
 7	უამრავ	უამრავ	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=uamrav
-8	შემთხვევით	შემთხვევით		ADJ	_	Case=Dat|Number=Sing	_	_	Translit=shemtkhvevit
+8	შემთხვევით	შემთხვევით	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=shemtkhvevit
 9	ნივთს	ნივთს	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=nivts
 10	ურევდნენ	ურევდნენ	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=urevdnen
 11	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -6461,7 +6463,7 @@
 38	GPS	GPS	NOUN	_	Foreign=Yes	_	_	_	Translit=GPS
 39	ნავიგატორი	ნავიგატორი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=navigatori
 40	(	(	PUNCT	_	PunctType=Brck	_	_	_	Translit=(
-41	GPS	GPS		X	_	Foreign=Yes|Abbr=Yes	_	_	Translit=GPS|Foreign=Yes
+41	GPS	GPS	X	_	Foreign=Yes|Abbr=Yes	_	_	_	Translit=GPS|Foreign=Yes
 42	navigation	navigation	X	_	Foreign=Yes	_	_	_	Translit=navigation
 43	device	device	X	_	Foreign=Yes	_	_	_	Translit=device
 44	)	)	PUNCT	_	PunctType=Brck	_	_	_	Translit=)
@@ -7364,7 +7366,7 @@
 # text = მასიური გავრცელება 1999 წელს, იაპონურმა ფირმა NTT DoCoMo-მ გამოუშვა მისი პირველი სმარტფონები რათა გაევრცელებინა ქვეყნის მასშტაბით.
 # translit = masiuri gavrtseleba 1999 tsʼels, iapʼonurma pʼirma NTT DoCoMo-m gamoushva misi pʼirveli smartʼpʼonebi ratʼa gaevrtselebina kʼveqʼnis masshtʼabitʼ.
 1	მასიური	მასიური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=masiuri
-2	გავრცელება	გავრცელება		VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	Translit=gavrtseleba
+2	გავრცელება	გავრცელება	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=gavrtseleba
 3	1999	1999	NUM	_	Case=Dat|NumType=Card|Number=Sing	_	_	_	Translit=1999
 4	წელს	წელს	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=tsels
 5	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -8044,7 +8046,7 @@
 14	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 15	რომლის	რომლის	PRON	_	Case=Gen|Number=Sing|PronType=Rel	_	_	_	Translit=romlis
 16	მიხედვითაც	მიხედვითაც	ADV	_	AdvType=Man|PartType=Emp	_	_	_	Translit=mikhedvitats
-17	თავის	თავის		NOUN	_	Case=Gen|Numer=Sing	_	_	Translit=tavis
+17	თავის	თავის	NOUN	_	Case=Gen|Numer=Sing	_	_	_	Translit=tavis
 18	ტვინის	ტვინის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=tvinis
 19	ფუნქციური	ფუნქციური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=punktsiuri
 20	ერთეული	ერთეული	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=erteuli
@@ -8169,7 +8171,7 @@
 # translit = neironebi kʼomunikʼatsiistʼvvis spʼetsializirebuli ujredebia.
 1	ნეირონები	ნეირონები	ADJ	_	Case=Nom|Number=Plur	_	_	_	Translit=neironebi
 2	კომუნიკაციის	კომუნიკაცია	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=komunikatsiis
-3	თვის		თვის		ADP	_	AdpType=Post	_	Translit=tvis
+3	თვის	თვის	ADP	_	AdpType=Post	_	_	_	Translit=tvis
 4	სპეციალიზირებული	სპეციალიზირებული	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=spetsializirebuli
 5-6	უჯრედებია	_	_	_	_	_	_	_	_
 5	უჯრედები	უჯრედებია	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=ujredebi
@@ -8577,7 +8579,6 @@
 # sent_id = 00338
 # text = ერთმანეთზე გადაჯაჭვული ქედები და მთების მასივები ასეულ და ათასეულ კმ-ზე გაშლილ მთიან მხარეებს ( მთებს ) წარმოქმნიან, მაგ კავკასიონი, ურალის მთები.
 # translit = ertʼmanetʼze gadajachʼvuli kʼedebi da mtʼebis masivebi aseul da atʼaseul kʼm-ze gashlil mtʼian mkhareebs ( mtʼebs ) tsʼarmokʼmnian, mag kʼavkʼasioni, uralis mtʼebi.
-_	_	_	_	_	_	_	_	_	_
 1	ერთმანეთ	ერთმანეთი	PRON	_	Case=Dat|PronType=Rcp	_	_	_	Translit=ertmanet
 2	ზე	ზე	ADP	_	AdpType=Post	_	_	_	Translit=ze
 3	გადაჯაჭვული	გადაჯაჭვული	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=gadajachvuli
@@ -8649,7 +8650,7 @@ _	_	_	_	_	_	_	_	_	_
 5	ნაოჭა	ნაოჭა	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=naocha
 6	და	და	CCONJ	_	_	_	_	_	Translit=da
 7	ლოდა	ლოდა	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=loda
-8	მთებს	მთებს		NOUN	_	Case=Dat|Number=Plur	_	_	Translit=mtebs
+8	მთებს	მთებს	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=mtebs
 9	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = 00342
@@ -8925,7 +8926,7 @@ _	_	_	_	_	_	_	_	_	_
 16	მთავარი	მთავარი	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=mtavari
 17-18	მდინარეა	_	_	_	_	_	_	_	_
 17	მდინარე	მდინარეა	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=mdinare
-18	ა	არის	AUX	_	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
+18	ა	არის	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
 
 # sent_id = 00355
 # text = მდინარეს ერთვის შენაკადები.
