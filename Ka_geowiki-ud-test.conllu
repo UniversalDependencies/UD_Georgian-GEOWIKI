@@ -9597,7 +9597,7 @@
 # text = მდინარეთა სიგრძეები ნაჩვენებია შენაკადებითურთ.
 # translit = mdinaretʼa sigrdzeebi nachvenebia shenakʼadebitʼurtʼ.
 1	მდინარეთა	მდინარეთა	NOUN	_	Case=Gen|Number=Plur	_	_	_	Translit=mdinareta
-2	სიგრძეები	NOUB	სიგრძეები	NOUN	_	Case=Nom|Number=Plur	_	_	Translit=sigrdzeebi
+2	სიგრძეები	სიგრძეები	NOUN	_	Case=Nom|Number=Plur  _	_ _  Translit=sigrdzeebi
 3-4	ნაჩვენებია	_	_	_	_	_	_	_	_
 3	ნაჩვენები	ნაჩვენებია	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=nachvenebi
 4	ა	ა	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	_	_	_	Translit=a
