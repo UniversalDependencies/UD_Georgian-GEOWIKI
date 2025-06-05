@@ -18,7 +18,7 @@ This initiative supports the broader goal of bridging the resource gap for low-r
 
 # Acknowledgments
 
-We acknowledge the prior work that made this project possible, including the doctoral research that provided the TreeTagger model for Georgian, and the Universal Dependencies community for their standards, tools, and support. Special thanks to my thesis supervisors, Delphine Bernhard and Hélène Gérardin, for their guidance, support, and expertise throughout the development of this project.
+Acknowledgments to the prior work that made this project possible, including the doctoral research that provided the TreeTagger model for Georgian, and the Universal Dependencies community for their standards, tools, and support. Special thanks to my thesis supervisors, Delphine Bernhard and Hélène Gérardin, for their guidance, support, and expertise throughout the development of this project.
 
 # References
 
