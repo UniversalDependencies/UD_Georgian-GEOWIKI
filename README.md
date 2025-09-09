@@ -45,6 +45,7 @@ Acknowledgments to the prior work that made this project possible, including the
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: wiki
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
