@@ -44,7 +44,7 @@ Acknowledgments to the prior work that made this project possible, including the
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
+Data available since: UD v2.20
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
