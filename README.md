@@ -1,12 +1,14 @@
 # Summary
 
-**UD\_Georgian-GEOWIKI** is a Universal Dependencies corpus for the Georgian language, derived from randomly selected texts from the Georgian Wikipedia. The corpus currently contains 385 sentences, which were automatically tokenized and morphologically tagged using a TreeTagger model trained on a separate Georgian dataset. You can find the TreeTagger resource [here](https://github.com/SophikoComp/TreeTagger-for-Georgian).
+**UD\_Georgian-GEOWIKI** is a Universal Dependencies corpus for the Georgian language, derived from randomly selected texts from the Georgian Wikipedia.
+
+# Introduction
+
+The corpus currently contains 385 sentences, which were automatically tokenized and morphologically tagged using a TreeTagger model trained on a separate Georgian dataset. You can find the TreeTagger resource [here](https://github.com/SophikoComp/TreeTagger-for-Georgian).
 
 The output was semi-automatically converted into the UD format through custom Python scripts, followed by extensive manual correction to ensure conformity with UD guidelines and improve annotation quality. Morphological annotations are complete and validated; syntactic annotations are currently in progress.
 
 This corpus contributes to the growing set of low-resource language resources and provides a foundation for future syntactic, morphological, and cross-linguistic research in Georgian NLP.
-
-# Introduction
 
 The **UD\_Georgian-GEOWIKI** corpus was developed as part of a master's thesis focused on enriching the landscape of NLP resources for underrepresented languages. Georgian, a South Caucasian (Kartvelian) language, poses unique challenges due to its complex morphosyntactic structure, agglutinative morphology, and limited digital resources. Despite being spoken by over 4 million people, Georgian remains largely underserved in computational linguistics.
 
@@ -36,7 +38,7 @@ Acknowledgments to the prior work that made this project possible, including the
 
 # Changelog
 
-* 2024-11-15 v2.15
+* 2027-05-15 v2.20
   * Initial release in Universal Dependencies.
 
 
