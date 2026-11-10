@@ -5194,9 +5194,10 @@
 15	ამას	ამას	PRON	_	Case=Dat|Number=Sing|PronType=Dem	_	_	_	Translit=amas
 16	უწოდებენ	უწოდებენ	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=utsodeben
 17	„	„	PUNCT	_	PunctType=Quot	_	_	_	Translit=„|Foreign=Yes
-18	blue	blue	X	_	Foreign=YesNPD	ნოტებს	NOUN	Case=Dat|Number=Plur	Translit=blue|Foreign=Yes
-19	“	“	PUNCT	_	PunctType=Quot	_	_	_	Translit=“|Foreign=Yes
-20	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
+18	blue	blue	X	_	Foreign=Yes	_	_	_	Translit=blue|Foreign=Yes
+19	ნოტებს	ნოტებს	NOUN	_	Case=Dat|Number=Plur	_	_	Translit=blue|Foreign=Yes
+20	“	“	PUNCT	_	PunctType=Quot	_	_	_	Translit=“|Foreign=Yes
+21	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = 00210
 # text = რაც შეეხება ტექსტს, თავდაპირველად მარტო ერთხაზიანი იყო, რომელიც მეორდებოდა სამჯერ, რათა წრე შეკრულიყო ( AAA ფორმა ეწოდება ).
