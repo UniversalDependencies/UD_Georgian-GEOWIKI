@@ -2015,7 +2015,7 @@
 1	ხელოვნური	ხელოვნური	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=khelovnuri
 2	ინტელექტი	ინტელექტი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=intelekti
 3	(	(	PUNCT	_	PunctType=Brck	_	_	_	Translit=(
-4	ინგლ.	ინგლისური		ADJ	_	Case=Ess|Number=Sing|Abbr=Yes	_	_	_	Translit=ingl.
+4	ინგლ.	ინგლისური	ADJ	_	Case=Ess|Number=Sing|Abbr=Yes	_	_	_	Translit=ingl.
 5	artificial	artificial	X	_	Foreign=Yes	_	_	_	Translit=artificial|Foreign=Yes
 6	intelligence	intelligence	X	_	Foreign=Yes	_	_	_	Translit=intelligence|Foreign=Yes
 7	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
@@ -2630,7 +2630,7 @@
 4	:	:	PUNCT	_	PunctType=Colo	_	_	_	Translit=:
 5	ποίησις	ποίησις	X	_	Foreign=Yes	_	_	_	Translit=ποίησις|Foreign=Yes
 6	„	„	PUNCT	_	PunctType=Quot	_	_	_	Translit=„|Foreign=Yes
-7	ვქმნი	ქმნის		VERB	_	Aspect=Imp|Mood=Ind|Number=Sing[subj]=Sing|Person[subj]=1|Tense=Pres|Voice=Act	_	_	_	Translit=vkmni
+7	ვქმნი	ქმნის	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing[subj]=Sing|Person[subj]=1|Tense=Pres|Voice=Act	_	_	_	Translit=vkmni
 8	“	“	PUNCT	_	PunctType=Quot	_	_	_	Translit=“|Foreign=Yes
 9	)	)	PUNCT	_	PunctType=Brck	_	_	_	Translit=)
 10	—	—	PUNCT	_	PunctType=Dash	_	_	_	Translit=—|Foreign=Yes
