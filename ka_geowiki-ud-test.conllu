@@ -4023,7 +4023,7 @@
 30	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 31	რომლის	რომლის	PRON	_	Case=Gen|Number=Sing|PronType=Rel	_	_	_	Translit=romlis
 32	ზომებიც	ზომებიც	NOUN	_	Case=Nom|Number=Plur|PartType=Emp	_	_	_	Translit=zomebits
-33	34	_	_	_	_	_	_	_	განსხვავებულია
+33-34	განსხვავებულია	_	_	_	_	_	_	_	_
 33	განსხვავებული	განსხვავებულია	ADJ	_	Case=Nom|Number=Sing|VerbForm=Aux	_	_	_	Translit=ganskhvavebuli
 34	ა	არის	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=a
 35	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
