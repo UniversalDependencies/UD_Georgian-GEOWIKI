@@ -8258,7 +8258,7 @@
 22	და	და	CCONJ	_	_	_	_	_	Translit=da
 23	ადამიანებსა	ადამიანებსა	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=adamianebsa
 24	და	და	CCONJ	_	_	_	_	_	Translit=da
-24-25	ცხოველებში	_	_	_	_	_	_	_	_
+25-26	ცხოველებში	_	_	_	_	_	_	_	_
 25	ცხოველებ	ცხოველი	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=tskhoveleb
 26	ში	ში	ADP	_	AdpType=Post	_	_	_	Translit=shi
 27	ქცევით	ქცევით	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=ktsevit
