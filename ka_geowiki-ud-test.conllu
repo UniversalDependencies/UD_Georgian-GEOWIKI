@@ -5195,7 +5195,7 @@
 16	უწოდებენ	უწოდებენ	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=utsodeben
 17	„	„	PUNCT	_	PunctType=Quot	_	_	_	Translit=„|Foreign=Yes
 18	blue	blue	X	_	Foreign=Yes	_	_	_	Translit=blue|Foreign=Yes
-19	ნოტებს	ნოტებს	NOUN	_	Case=Dat|Number=Plur	_	_	Translit=blue|Foreign=Yes
+19	ნოტებს	ნოტებს	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=blue|Foreign=Yes
 20	“	“	PUNCT	_	PunctType=Quot	_	_	_	Translit=“|Foreign=Yes
 21	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
@@ -5217,7 +5217,7 @@
 13	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 14	რათა	რათა	SCONJ	_	_	_	_	_	Translit=rata
 15	წრე	წრე	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=tsre
-16	შეკრულიყო	შეკრულიყო	VERB	_	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pqp|Voice=Act	_	_	Translit=shekruliqo
+16	შეკრულიყო	შეკრულიყო	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pqp|Voice=Act	_	_	_	Translit=shekruliqo
 17	(	(	PUNCT	_	PunctType=Brck	_	_	_	Translit=(
 18	AAA	AAA	X	_	Foreign=Yes	_	_	_	Translit=AAA|Foreign=Yes
 19	ფორმა	ფორმა	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=porma
