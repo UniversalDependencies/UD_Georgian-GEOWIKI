@@ -524,7 +524,7 @@
 15	რომელიც	რომელიც	PRON	_	Case=Nom|Number=Sing|PronType=Int|PartType=Emp	_	_	_	Translit=romelits
 16	მათ	მათ	PRON	_	Case=Gen|Number=Plur|PronType=Dem	_	_	_	Translit=mat
 17	წარმოშობას	წარმოშობას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=tsarmoshobas
-18	და		და	CCONJ	_	_	_	_	Translit=da
+18	და	და	CCONJ	_	_	_	_	_	Translit=da
 19	განვითარებას	განვითარებას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=ganvitarebas
 20	ეხება	ეხება	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Pres	_	_	_	Translit=ekheba
 21	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
@@ -714,7 +714,7 @@
 32	მრავალნაირი	მრავალნაირი	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=mravalnairi
 33	დამატებითი	დამატებითი	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=damatebiti
 34	ტექნიკური	ტექნიკური	ADJ	_	Case=Ins|Number=Sing	_	_	_	Translit=teknikuri
-35	და		და	CCONJ	_	_	_	_	Translit=da
+35	და	და	CCONJ	_	_	_	_	_	Translit=da
 36	ფიზიკური	ფიზიკური	ADJ	_	Case=Ins|Number=Sing	_	_	_	Translit=pizikuri
 37	საშუალებებით	საშუალებებით	NOUN	_	Case=Ins|Number=Plur	_	_	_	Translit=sashualebebit
 38	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
@@ -1628,7 +1628,7 @@
 6	შიც	ში	ADP	_	AdpType=Post|PartType=Emp	_	_	_	Translit=shits
 7	კი	XX	კი	PART	_	PartType=Emp	_	_	Translit=ki
 8	არ	არ	PART	_	PartType=Neg	_	_	_	Translit=ar
-9	არღვევდა	არღვევდა		VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|Voice=Act	_	_	Translit=arghvevda
+9	არღვევდა	არღვევდა	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|Voice=Act	_	_	_	Translit=arghvevda
 10	ხრიდოლის	ხრიდოლის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=khridolis
 11	წესებს	წესებს	NOUN	_	Case=Dat|Number=Plur	_	_	_	Translit=tsesebs
 12	და	და	CCONJ	_	_	_	_	_	Translit=da
