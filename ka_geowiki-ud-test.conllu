@@ -1792,7 +1792,7 @@
 6	ჭიდაობის	ჭიდაობისგან	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=chidaobis
 7	გან	გან	ADP	_	AdpType=Post	_	_	_	Translit=gan
 8	შეტევა	შეტევა	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=sheteva
-9	ხორციელდება	ხორციელდება	VERB	_	Aspect=Imp|Mood=Ind |Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=khortsieldeba
+9	ხორციელდება	ხორციელდება	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=khortsieldeba
 10	ქვედა	ქვედა	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=kveda
 11	კიდურებზეც	კიდურებზეც	NOUN	_	Case=Dat|Number=Plur|AdpType=Post|PartType=Emp	_	_	_	Translit=kidurebzets
 12	ზეც	ზეც	ADP	_	AdpType=Post|PartType=Emp	_	_	_	Translit=zets
@@ -2464,7 +2464,7 @@
 # sent_id = 00096
 # text = სსბ-ზე ფასიან ქაღალდებზე დადებული გარიგებების კლირინგსა და ანგარიშსწორებას ახორციელებს სს " საქართველოს ფასიანი ქაღალდების ცენტრალური დეპოზიტარი ".
 # translit = ssb-ze pʼasian kʼaghaldebze dadebuli garigebebis kʼliringsa da angarishstsʼorebas akhortsielebs ss " sakʼartʼvelos pʼasiani kʼaghaldebis tsentʼraluri depʼozitʼari ".
-1	სსბ-ზე	სსბ-ზე	PROPN 	Case=Dat|Number=Sing|NameType=Com|Abbr=Yes	_	_	_	_	Translit=ssb-ze
+1	სსბ-ზე	სსბ-ზე	PROPN	Case=Dat|Number=Sing|NameType=Com|Abbr=Yes	_	_	_	_	Translit=ssb-ze
 2	ზე	ზე	ADP	_	AdpType=Post	_	_	_	Translit=ze
 3	ფასიან	ფასიან	NOUN	_	Case=Dat|Number=Sing|AdpType=Postposition	_	_	_	Translit=pasian
 4	ქაღალდებ	ქაღალდებზე	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=kaghaldeb
@@ -3498,7 +3498,7 @@
 15	ში	ში	ADP	_	AdpType=Post	_	_	_	Translit=shi
 16	სხვადასხვა	სხვადასხვა	ADJ	_	Case=Dat|Number=Sing	_	_	_	Translit=skhvadaskhva
 17	ფუნქციას	ფუნქციას	NOUN	_	Case=Dat|Number=Sing	_	_	_	Translit=punktsias
-18	ასრულებს	ასრულებს	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice =Act	_	_	_	Translit=asrulebs
+18	ასრულებს	ასრულებს	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Act	_	_	_	Translit=asrulebs
 19	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = 00133
@@ -4397,7 +4397,7 @@
 4	შემდეგ	შემდეგ	ADV	_	AdvType=Tim	_	_	_	Translit=shemdeg
 5	ყოველი	ყოველი	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	Translit=qoveli
 6	ჯარიმა	ჯარიმა	NOUN	_	Case=Nom|Number=Sing	_	_	_	Translit=jarima
-7	სრულდება	სრულდება	VERB	_	Aspect=Imp |Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Pass	_	_	_	Translit=sruldeba
+7	სრულდება	სრულდება	VERB	_	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Voice=Pass	_	_	_	Translit=sruldeba
 8	საჯარიმო	საჯარიმო	ADJ	_	Case=Nom|Number=Sing	_	_	_	Translit=sajarimo
 9	ტყორცნებით	ტყორცნებით	NOUN	_	Case=Ins|Number=Sing	_	_	_	Translit=tqortsnebit
 10	.	.	PUNCT	_	PunctType=Peri	_	_	_	Translit=.
@@ -6025,7 +6025,7 @@
 14	,	,	PUNCT	_	PunctType=Comm	_	_	_	Translit=,
 15	რომლებმაც	რომლებმაც	PRON	_	Case=Erg|Number=Plur|PartType=Emp	_	_	_	Translit=romlebmats
 16	თავისებურად	თავისებურად	ADJ	_	Case=Ess|Number=Sing	_	_	_	Translit=taviseburad
-17	გაიაზრეს	გაიაზრეს	VERB	_	Aspect=Perf |Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=gaiazres
+17	გაიაზრეს	გაიაზრეს	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Voice=Act	_	_	_	Translit=gaiazres
 18	და	და	CCONJ	_	_	_	_	_	Translit=da
 19-20	შემოქმედებაში	_	_	_	_	_	_	_	_
 19	შემოქმედება	შემოქმედებაში	NOUN	_	Case=Dat|Number=Sing|AdpType=Postposition	_	_	_	Translit=shemokmedeba
@@ -8664,7 +8664,7 @@
 6	აზიდული	აზიდული	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=aziduli
 7	ჰორიზონტული	ჰორიზონტული	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=horizontuli
 8	სტრუქტურების	სტრუქტურების	NOUN	_	Case=Gen|Number=Plur	_	_	_	Translit=strukturebis
-9	პლასტოსებრი	პლასტოსებრი	ADJ	_	Case=Gen |Number=Sing	_	_	_	Translit=plastosebri
+9	პლასტოსებრი	პლასტოსებრი	ADJ	_	Case=Gen|Number=Sing	_	_	_	Translit=plastosebri
 10	ზედაპირის	ზედაპირის	NOUN	_	Case=Gen|Number=Sing	_	_	_	Translit=zedapiris
 11	დანაწევრების	დანაწევრების	VERB	_	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=danatsevrebis
 12-13	შედეგია	_	_	_	_	_	_	_	_
